@@ -1,6 +1,4 @@
-# Project Title
-
-Java Planner
+# Java Planner
 
 ## Purpose
 
