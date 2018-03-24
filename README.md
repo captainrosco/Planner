@@ -12,7 +12,7 @@ Make sure Java is installed and setup properly.
 Clone/download repo.
 Unzip to desired folder.
 Run Command Prompt.
-Navigate to folder and run javac Main.java.e
+Navigate to folder and run javac Main.java
 ```
 
 ## Built With
